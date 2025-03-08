@@ -69,27 +69,3 @@ After running the script, you'll find the following files in the output director
 1. `scraping_results.json` - Raw scraped data in JSON format
 2. `scraping_results.csv` - Flattened data in CSV format
 3. `scraping_analysis.png` - Visualizations of the scraped data
-
-## Important Notes
-
-1. **Respect websites' terms of service**: Some websites prohibit scraping. Always check the robots.txt file and terms of service.
-
-2. **Rate limiting**: The default rate limit is 1 second between requests. Increase this if you're concerned about overwhelming the target server.
-
-3. **Caching**: By default, the script caches responses to avoid redundant requests. Use `--no-cache` to always fetch fresh data.
-
-4. **Customization**: For more advanced use cases, you may need to modify the `data_selectors` dictionary in the script to match the structure of the website you're scraping.
-
-5. **Legal considerations**: Web scraping may have legal implications depending on the website and how you use the data. Always ensure you're using the script responsibly and legally.
-
-## Troubleshooting
-
-If you encounter errors:
-
-1. Check that all dependencies are installed correctly
-2. Verify the URL is accessible in your browser
-3. Look at the log file (`scraper.log`) for detailed error messages
-4. Try increasing the timeout if requests are failing
-5. Consider adding `--no-cache` if you're getting stale data
-
-Let me know if you need help with any specific aspect of using this script!

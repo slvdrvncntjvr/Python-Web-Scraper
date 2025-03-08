@@ -1,0 +1,12 @@
+2025-03-08 20:57:53,846 - WebScraper - INFO - Starting web scraping of https://puptpg.org
+2025-03-08 20:57:53,866 - WebScraper - INFO - Scraping https://puptpg.org
+2025-03-08 20:57:54,358 - WebScraper - INFO - Scraping https://puptpg.org/
+2025-03-08 20:57:54,358 - WebScraper - INFO - Scraping https://puptpg.org/about
+2025-03-08 20:57:54,358 - WebScraper - INFO - Scraping https://puptpg.org/events
+2025-03-08 20:57:57,296 - WebScraper - INFO - Scraping https://puptpg.org/#about
+2025-03-08 20:57:57,296 - WebScraper - INFO - Scraping https://puptpg.org/about#missionvision
+2025-03-08 20:57:57,296 - WebScraper - INFO - Scraping https://puptpg.org/events#eventcatalog
+2025-03-08 20:58:00,166 - WebScraper - INFO - Crawling complete. Scraped 7 pages.
+2025-03-08 20:58:00,667 - WebScraper - INFO - Visualizations saved to output
+2025-03-08 20:58:00,680 - WebScraper - INFO - Results exported to output
+2025-03-08 20:58:00,680 - WebScraper - INFO - Web scraping completed successfully
